@@ -10,3 +10,12 @@ Alamofire HTTP Post + Upload + Fetch + Download File
 
 ## Download File
 <img width="760" alt="CleanShot 2022-10-02 at 18 23 06@2x" src="https://user-images.githubusercontent.com/56668881/193451459-8d372fc6-a42c-4212-8f2b-7c40e9b834d3.png">
+
+## Build
+- Ios 15.5
+- Alamofire 5
+- Latest update date: 2/10/2022
+
+## Author
+- Bui Thanh Huy - aaronhuy2509@gmail.com
+- Linkedin: https://www.linkedin.com/in/huy-bui-thanh-372a56194/
