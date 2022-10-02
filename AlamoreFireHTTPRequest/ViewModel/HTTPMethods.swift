@@ -48,7 +48,7 @@ class observer: ObservableObject {
             }
     }
     
-    // MARK: Function Posting API
+    // MARK: Function Posting API - Not using Alamofire
     func URLSessionPostApi(userName: String){
           print("Posting")
              //request create
